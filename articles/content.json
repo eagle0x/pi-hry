@@ -30,6 +30,20 @@
         ],
         "keywords": "motherland, patriotism, ramayana, lord rama, nationalism, bharat, janani janmabhoomi"
     },
+    {
+        "id": 23,
+        "title": "अमृत वचन - नवंबर मास",
+        "category": "अमृत वचन",
+        "description": "समाज के सुख-दुख को अपनी अनुभूति मानकर संपूर्ण राष्ट्र के प्रति आत्मीयता विकसित करने का संदेश।",
+        "content": [
+            "संपूर्ण राष्ट्र के प्रति आत्मीयता का भाव केवल शब्दों में रहने से क्या काम नहीं चलेगा।",
+            "आत्मीयता को प्रत्यक्ष अनुभूति होना आवश्यक है।",
+            "समाज के सुख-दुख यदि हमें छू पाते हैं तो यही मानना चाहिए कि यह अनुभूति का कोई अंश हमें भी प्राप्त हुआ है।",
+            "",
+            "— श्री गुरूजी"
+        ],
+        "keywords": "guruji, rashtra, national unity, social empathy, आत्मीयता, समाज, राष्ट्रभाव, संवेदना, राष्ट्रसेवा, inspiration, अमृत वचन"
+    },
 
     {
         "id": 22,
@@ -77,6 +91,19 @@
     },
 
     {
+        "id": 19,
+        "title": "अमृत वचन - अक्टूबर मास",
+        "category": "अमृत वचन",
+        "description": "दरिद्रों की सहायता के साथ उन्हें आत्मनिर्भर बनाने और स्थायी सामाजिक परिवर्तन का संदेश।",
+        "content": [
+            "जब दरिद्र तुम्हारे साथ हो, तो उनकी सहायता करो।",
+            "लेकिन अध्ययन करो। और यह प्रयास भी करो कि तुम्हारी सहायता पाने के लिए दरिद्र लोग न बचे रहें।",
+            "",
+            "— महर्षि अरविन्द"
+        ],
+        "keywords": "maharshi arvind, service, poverty, self reliance, social upliftment, social change, helping others, inspiration, अमृत वचन, महर्षि अरविन्द"
+    },
+    {
         "id": 18,
         "title": "गीत - अक्टूबर मास",
         "category": "गीत",
@@ -120,6 +147,20 @@
         "keywords": "village development, gram sabha, education, physical fitness, festivals, sanskar, community development, social organization"
     },
 
+    {
+        "id": 15,
+        "title": "अमृत वचन - सितंबर मास",
+        "category": "अमृत वचन",
+        "description": "आंतरिक शक्ति, आत्मनिर्भरता और सेवा के माध्यम से समाज निर्माण का प्रेरणादायक संदेश।",
+        "content": [
+            "ब्रह्मांड की सारी शक्तियां पहले से हमारी हैं।",
+            "लेकिन यह हम ही हैं जो अपनी आंखों पर हाथ रख लेते हैं और रोते हैं कि कितना अंधकार है।",
+            "",
+            "— स्वामी विवेकानंद"
+        ],
+        "keywords": "swami vivekananda, inner strength, self belief, spirituality, inspiration, strength, enlightenment, अमृत वचन, स्वामी विवेकानंद"
+    },
+    
     {
         "id": 14,
         "title": "गीत - सितंबर मास",
